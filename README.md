@@ -4,5 +4,4 @@
 * [Mitre Att](https://infosecwriteups.com/understanding-the-mitre-att-ck-framework-a-comprehensive-overview-c1499d195da0)
 
 ## Tools
-* [Wolfram Alpha](https://www.wolframalpha.com/)
-  * Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology.
+* [Wolfram Alpha](https://www.wolframalpha.com/) - Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology.
