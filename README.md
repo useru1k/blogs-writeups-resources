@@ -7,6 +7,7 @@
 
 ## Learning Resource
 * [Linux Bash Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
+* [Linux From Scratch Online Read Document](https://www.linuxfromscratch.org/lfs/view/development/index.html)
 
 ## Blogs and WriteUps
 * [Account takeover Same OTP](https://medium.com/@raxomara/account-takeover-same-otp-81bfba35d9b3)
