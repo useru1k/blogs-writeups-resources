@@ -1,5 +1,7 @@
 # TryHackMe: Simple CTF
 
+-> Refer medium blog - [Medium blog](https://medium.com/@bluecapture/tryhackme-simple-ctf-7ae0ebc79e1c)
+
 ![image](https://github.com/user-attachments/assets/f366e5de-c3e6-488d-ad90-cebacddc4de1)
 
 
