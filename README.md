@@ -4,6 +4,7 @@
 
 ## Tools
 * [Wolfram Alpha](https://www.wolframalpha.com/) - Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology.
+* [Reverse shells](https://www.revshells.com/) - This website was utilized to create a reverse shell command.
 
 ## Learning Resource
 * [Linux Bash Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
