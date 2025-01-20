@@ -3,6 +3,7 @@
 * Hello Friends! This is my personal collection of notes, blogs, and tools related to cybersecurity. I use this space to document key points, new tools, and insights for future reference and understanding. I’m excited to share it with you all!
 
 ## Tools
+* [Wordlists](https://github.com/kkrypt0nn/wordlists) - A collection of wordlists for many different usages.
 * [Wolfram Alpha](https://www.wolframalpha.com/) - Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology.
 * [Reverse shells](https://www.revshells.com/) - This website was utilized to create a reverse shell command.
 * [CyberChef](https://gchq.github.io/CyberChef/) - Used to decode the string
