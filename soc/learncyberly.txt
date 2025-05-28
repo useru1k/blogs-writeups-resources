@@ -1,0 +1,3 @@
+Defensive Security broadly refers to a major functional domain within
+Cybersecurity - one that primarily deals with prevention, detection, and
+response.
