@@ -1,3 +1,20 @@
 Defensive Security broadly refers to a major functional domain within
 Cybersecurity - one that primarily deals with prevention, detection, and
 response.
+
+What is the Risk? -> 
+
+
+-> Complete elimination of the such risk is not possible, so organizations attempt to manage that risk to keep it at an acceptable level. and the overall process called risk management.
+
+-> Risk in cybersecurity is typically defined as a function of both the likelihood of a threat exploiting a vulnerability and the impact it would have.
+
+-> In its most simplistic form, risk is composed of two primary elements, likelihood and impact. For given "Bad Thing"(TM) that could happen, the risk associated with that "Bad Thing" is the result of the likelihood that this Bad Thing will happen and the impact to the organization if it does happen. This is often represented simply as follows:
+
+Risk = Likelihood x Impact
+
+CSF Framework
+-> Cybersecurity Framework (CSF) provided by the U.S. National Institute of Standards and Technology (NIST).
+-> https://www.nist.gov/news-events/news/2018/04/nist-releases-version-11-its-popular-cybersecurity-framework)
+-> 1.Identify 2.Protect 3.Detect 4.Response 5. Recover
+-> Identify the important components of the organization and the risks to which they are exposed. Implement proactive defenses (protection) against those risks. Detect events that may represent contact with those risks. Respond to active threats and impacts. Recover the organization from impacts.That is the essence of defensive cyber security.	
