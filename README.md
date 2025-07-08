@@ -17,3 +17,7 @@
 * [Account takeover Same OTP](https://medium.com/@raxomara/account-takeover-same-otp-81bfba35d9b3)
 * [Mitre Attack](https://infosecwriteups.com/understanding-the-mitre-att-ck-framework-a-comprehensive-overview-c1499d195da0)
 * [OSI Model](https://medium.com/software-engineering-roundup/the-osi-model-87e5adf35e10)
+
+
+## SOC
+* [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
