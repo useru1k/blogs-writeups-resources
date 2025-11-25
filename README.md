@@ -1,4 +1,4 @@
-# Blogs and WriteUps and tools
+c# Blogs and WriteUps and tools
 
 * Hello Friends! This is my personal collection of notes, blogs, and tools related to cybersecurity. I use this space to document key points, new tools, and insights for future reference and understanding. I’m excited to share it with you all!
 
@@ -8,6 +8,7 @@
 * [Reverse shells](https://www.revshells.com/) - This website was utilized to create a reverse shell command.
 * [CyberChef](https://gchq.github.io/CyberChef/) - Used to decode the string
 * https://emojicombos.com/
+* [Talos Intelligence](https://talosintelligence.com/)- Talos Intelligence is a cybersecurity threat‑intelligence tool used to detect, analyze, and block malicious activity
 
 ## Learning Resource
 * [Linux Bash Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
