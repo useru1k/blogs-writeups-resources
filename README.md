@@ -1,4 +1,4 @@
-c# Blogs and WriteUps and tools
+# Blogs and WriteUps and tools
 
 * Hello Friends! This is my personal collection of notes, blogs, and tools related to cybersecurity. I use this space to document key points, new tools, and insights for future reference and understanding. I’m excited to share it with you all!
 
@@ -23,3 +23,7 @@ c# Blogs and WriteUps and tools
 ## SOC
 * [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
 * [MalwareBazaar](https://bazaar.abuse.ch/) - MalwareBazaar is a platform, operated by abuse.ch, that serves as a central repository for malware samples, facilitating the sharing of these samples within the cybersecurity community.
+
+## 🗂️ Platforms
+* [LetsDefend](https://letsdefend.io/) - Blue Team Related
+* [OverTheWire](https://overthewire.org/wargames/) - Linux Related
