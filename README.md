@@ -15,6 +15,7 @@
 * [Linux From Scratch Online Read Document](https://www.linuxfromscratch.org/lfs/view/development/index.html)
 
 ## Blogs and WriteUps
+* [CIA Triad](https://medium.com/@iamsanjeevkumar/cia-triad-the-three-pillars-of-cyber-security-6ca50d7e2b28) - CIA Triad: The Three Pillars of Cyber Security
 * [Account takeover Same OTP](https://medium.com/@raxomara/account-takeover-same-otp-81bfba35d9b3)
 * [Mitre Attack](https://infosecwriteups.com/understanding-the-mitre-att-ck-framework-a-comprehensive-overview-c1499d195da0)
 * [OSI Model](https://medium.com/software-engineering-roundup/the-osi-model-87e5adf35e10)
