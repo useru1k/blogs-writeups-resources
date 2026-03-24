@@ -19,6 +19,7 @@
 * [Account takeover Same OTP](https://medium.com/@raxomara/account-takeover-same-otp-81bfba35d9b3)
 * [Mitre Attack](https://infosecwriteups.com/understanding-the-mitre-att-ck-framework-a-comprehensive-overview-c1499d195da0)
 * [OSI Model](https://medium.com/software-engineering-roundup/the-osi-model-87e5adf35e10)
+* [Poodle and Beast Attack SSL](https://github.com/useru1k/blogs-writeups-resources/blob/main/learn%20and%20blogs/Poodle%20and%20Beast%20Attack.md)
 
 
 ## SOC
