@@ -8,3 +8,7 @@
 ### Blue Team
 - https://letsdefend.io/
 - https://blueteamlabs.online/
+
+### CloudSec
+- https://pwnedlabs.io/
+- https://www.wiz.io/ctf
