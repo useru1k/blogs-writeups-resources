@@ -1,0 +1,99 @@
+1. Multiple failed logins followed by a successful login from another geography — how do you validate credential compromise?
+
+2. SIEM alert shows suspicious login activity, but MFA was successful. Do you still escalate? Why?
+
+3. EDR flags a suspicious process signed by a trusted vendor. How do you determine compromise vs false positive?
+
+4. Impossible travel alert triggered — what validations do you perform?
+
+5. High-severity PowerShell execution alert appears, but EDR marks it benign. What investigation flow do you follow?
+
+6. DNS logs show random/newly registered domains (DGA-like). What is your investigation approach?
+
+7. Endpoint shows outbound traffic to unknown IP over port 443. How do you determine C2 communication?
+
+8. User downloaded malware but AV/EDR did not block it. What next?
+
+9. Encoded PowerShell execution detected. How do you decode and analyze it?
+
+10. Endpoint logs show cmd → powershell → rundll32 execution chain. What does this indicate?
+
+11. SIEM shows brute-force behavior, but no alert triggered. What does this tell you?
+
+12. Logs disappear after suspicious admin activity. What could this indicate?
+
+13. Multiple users report slow systems while SIEM shows abnormal traffic. What could be happening?
+
+14. A known false positive suddenly correlates with another alert. Do you still ignore it?
+
+15. Same IP triggers alerts across multiple systems. What does this suggest?
+
+16. A phishing email was clicked by the user. What are your immediate response actions?
+
+17. Phishing email reported after several hours. What additional risks do you consider?
+
+18. Ransomware is suspected. What are your first five actions?
+
+19. Malware executed before detection. What containment steps follow?
+
+20. Endpoint shows signs of lateral movement. How do you confirm attacker movement?
+
+21. Beaconing traffic detected from endpoint. What does it indicate?
+
+22. Endpoint communicates with TOR network. What possibilities do you investigate?
+
+23. You suspect data staging before exfiltration, but no outbound transfer exists yet. What evidence do you hunt for?
+
+24. Insider with privileged access performs suspicious actions but claims legitimate work. How do you investigate objectively?
+
+25. Multiple low-severity alerts across weeks suddenly appear related. How do you build attack narrative?
+
+26. You suspect coordinated attacks across multiple business units. How do you determine whether incidents are related?
+
+27. A detection fires across thousands of endpoints simultaneously. How do you triage at scale?
+
+28. How do you identify patient-zero in a widespread compromise?
+
+29. Logs indicate attacker activity stopped abruptly. How do you determine whether they left voluntarily or were detected?
+
+30. How do you validate whether attackers still maintain persistence after remediation?
+
+31. How do you hunt for living-off-the-land attacks without signatures?
+
+32. How do you identify malicious intent when attackers use legitimate admin tools?
+
+33. No alerts fired, but threat intelligence reports active ransomware campaigns. How do you proactively hunt?
+
+34. How do you detect persistence mechanisms without malware artifacts?
+
+35. How do you hunt for C2 communication without known IOCs?
+
+36. How do you detect credential dumping activity?
+
+37. How do you investigate suspicious parent-child process relationships?
+
+38. How do you investigate unusual service creation on Windows?
+
+39. Linux server shows abnormal outbound encrypted traffic spikes. How do you investigate?
+
+40. How do you investigate WMI persistence?
+
+41. Threat intel flags an IP/domain/hash, but logs show legitimate traffic. What do you do?
+
+42. IOC detected, but source confidence is low. How do you validate?
+
+43. Threat actor infrastructure changes daily. How do you adapt detection strategy?
+
+44. How do you operationalize threat intelligence inside SIEM/SOC workflows?
+
+45. How do you use MITRE ATT&CK during investigations and threat hunting?
+
+46. ATT&CK techniques are detected, but no threat actor attribution exists. How does that affect response?
+
+47. How do you identify ATT&CK detection gaps in your SOC?
+
+48. How do you reduce false positives in SIEM detections?
+
+49. Leadership asks whether the incident is fully contained. What technical criteria must be validated first?
+
+50. If given 90 days to improve SOC operations, what would you automate, tune, hunt, and measure first?
